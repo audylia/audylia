@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Audylia Aska Widiaputri! 👋
 
-<!--
-**audylia/audylia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Information Systems and Technology student at **Universitas Negeri Jakarta (UNJ)**.
 
-Here are some ideas to get you started:
+💻 I have completed an **App Development Training Program at PPKD Jakarta Pusat**, where I gained hands-on experience in mobile application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I developed **Study Sprint**, a self-learning application designed to help students improve their learning experience through personalized study features.
+
+### 🌱 Currently Learning
+- App Development
+- Data Analytics
+- Software Engineering
+- UI/UX Design
+
+### 🔭 Projects
+- **Study Sprint** – A self-learning application built to help students study more effectively.
+
+### 💬 Areas of Interest
+- Mobile Application Development
+- Data Analytics
+- Technology and Innovation
+
+### 📫 Reach Me
+- **Email:** audyliaaskawidiaputri@gmail.com
+
+✨ Always learning, exploring new technologies, and building something new!
